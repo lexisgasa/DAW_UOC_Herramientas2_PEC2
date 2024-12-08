@@ -1,0 +1,7 @@
+ol:has(li .fw-bold) {
+  text-transform: uppercase;
+}
+
+ol li:is(:nth-child(odd)) {
+  background-color: rgba($gray, 0.1);
+}
