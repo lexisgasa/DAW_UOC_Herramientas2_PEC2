@@ -10,6 +10,7 @@ $uoc-masterbrand: #73edff;
 $uoc-bg: color.scale($uoc-masterbrand, $lightness: 70%);
 
 $mqMinWidth: 420px;
+$mqMaxWidth: 767px;
 
 $gray: #808080;
-$electric-blue: color(display-p3 0 0 1 / 0.8);
+$custom-purple: color(display-p3 0 0 1 / 0.8);
